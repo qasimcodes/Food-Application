@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.img-wrapper{
+  height: 300px;
+}
+.pk1{
+  font-family: 'Ephesis', cursive;
+  background-color: burlywood;
+  border-radius: 5px;
+  height: 400px;
+}
